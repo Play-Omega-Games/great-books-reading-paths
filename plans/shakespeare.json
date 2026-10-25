@@ -1,0 +1,1915 @@
+{
+ "meta": {
+  "path": "shakespeare",
+  "title": "Shakespeare, One Act a Day",
+  "count": 190,
+  "generated": "2026-10-25",
+  "plan": "38 plays, one act a day. Twelve best-known plays first, then the English histories in story order, then the remaining comedies, tragedies and romances alternating.",
+  "sources": [
+   "https://www.gutenberg.org/cache/epub/100/pg100-images.html",
+   "https://www.gutenberg.org/cache/epub/100/pg100.txt"
+  ]
+ },
+ "days": [
+  {
+   "day": 1,
+   "title": "Romeo and Juliet, Act I",
+   "work": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_30.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 2,
+   "title": "Romeo and Juliet, Act II",
+   "work": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_30.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 3,
+   "title": "Romeo and Juliet, Act III",
+   "work": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_30.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 4,
+   "title": "Romeo and Juliet, Act IV",
+   "work": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_30.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 5,
+   "title": "Romeo and Juliet, Act V",
+   "work": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_30.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 6,
+   "title": "A Midsummer Night’s Dream, Act I",
+   "work": "A Midsummer Night’s Dream",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_24.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 7,
+   "title": "A Midsummer Night’s Dream, Act II",
+   "work": "A Midsummer Night’s Dream",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_24.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 8,
+   "title": "A Midsummer Night’s Dream, Act III",
+   "work": "A Midsummer Night’s Dream",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_24.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 9,
+   "title": "A Midsummer Night’s Dream, Act IV",
+   "work": "A Midsummer Night’s Dream",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_24.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 10,
+   "title": "A Midsummer Night’s Dream, Act V",
+   "work": "A Midsummer Night’s Dream",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_24.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 11,
+   "title": "Julius Caesar, Act I",
+   "work": "Julius Caesar",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_17.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 12,
+   "title": "Julius Caesar, Act II",
+   "work": "Julius Caesar",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_17.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 13,
+   "title": "Julius Caesar, Act III",
+   "work": "Julius Caesar",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_17.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 14,
+   "title": "Julius Caesar, Act IV",
+   "work": "Julius Caesar",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_17.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 15,
+   "title": "Julius Caesar, Act V",
+   "work": "Julius Caesar",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_17.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 16,
+   "title": "Much Ado about Nothing, Act I",
+   "work": "Much Ado about Nothing",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_25.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 17,
+   "title": "Much Ado about Nothing, Act II",
+   "work": "Much Ado about Nothing",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_25.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 18,
+   "title": "Much Ado about Nothing, Act III",
+   "work": "Much Ado about Nothing",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_25.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 19,
+   "title": "Much Ado about Nothing, Act IV",
+   "work": "Much Ado about Nothing",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_25.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 20,
+   "title": "Much Ado about Nothing, Act V",
+   "work": "Much Ado about Nothing",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_25.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 21,
+   "title": "Hamlet, Act I",
+   "work": "Hamlet",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_8.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 22,
+   "title": "Hamlet, Act II",
+   "work": "Hamlet",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_8.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 23,
+   "title": "Hamlet, Act III",
+   "work": "Hamlet",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_8.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 24,
+   "title": "Hamlet, Act IV",
+   "work": "Hamlet",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_8.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 25,
+   "title": "Hamlet, Act V",
+   "work": "Hamlet",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_8.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 26,
+   "title": "Twelfth Night, Act I",
+   "work": "Twelfth Night",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_36.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 27,
+   "title": "Twelfth Night, Act II",
+   "work": "Twelfth Night",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_36.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 28,
+   "title": "Twelfth Night, Act III",
+   "work": "Twelfth Night",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_36.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 29,
+   "title": "Twelfth Night, Act IV",
+   "work": "Twelfth Night",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_36.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 30,
+   "title": "Twelfth Night, Act V",
+   "work": "Twelfth Night",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_36.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 31,
+   "title": "Macbeth, Act I",
+   "work": "Macbeth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_20.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 32,
+   "title": "Macbeth, Act II",
+   "work": "Macbeth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_20.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 33,
+   "title": "Macbeth, Act III",
+   "work": "Macbeth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_20.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 34,
+   "title": "Macbeth, Act IV",
+   "work": "Macbeth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_20.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 35,
+   "title": "Macbeth, Act V",
+   "work": "Macbeth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-8",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_20.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 36,
+   "title": "The Merchant of Venice, Act I",
+   "work": "The Merchant of Venice",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_22.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 37,
+   "title": "The Merchant of Venice, Act II",
+   "work": "The Merchant of Venice",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-9",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_22.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 38,
+   "title": "The Merchant of Venice, Act III",
+   "work": "The Merchant of Venice",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_22.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 39,
+   "title": "The Merchant of Venice, Act IV",
+   "work": "The Merchant of Venice",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_22.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 40,
+   "title": "The Merchant of Venice, Act V",
+   "work": "The Merchant of Venice",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_22.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 41,
+   "title": "Othello, Act I",
+   "work": "Othello",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_26.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 42,
+   "title": "Othello, Act II",
+   "work": "Othello",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_26.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 43,
+   "title": "Othello, Act III",
+   "work": "Othello",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_26.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 44,
+   "title": "Othello, Act IV",
+   "work": "Othello",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_26.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 45,
+   "title": "Othello, Act V",
+   "work": "Othello",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_26.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 46,
+   "title": "As You Like It, Act I",
+   "work": "As You Like It",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_4.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 47,
+   "title": "As You Like It, Act II",
+   "work": "As You Like It",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_4.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 48,
+   "title": "As You Like It, Act III",
+   "work": "As You Like It",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_4.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 49,
+   "title": "As You Like It, Act IV",
+   "work": "As You Like It",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_4.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 50,
+   "title": "As You Like It, Act V",
+   "work": "As You Like It",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_4.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 51,
+   "title": "King Lear, Act I",
+   "work": "King Lear",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_18.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 52,
+   "title": "King Lear, Act II",
+   "work": "King Lear",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_18.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 53,
+   "title": "King Lear, Act III",
+   "work": "King Lear",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_18.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 54,
+   "title": "King Lear, Act IV",
+   "work": "King Lear",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_18.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 55,
+   "title": "King Lear, Act V",
+   "work": "King Lear",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_18.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 56,
+   "title": "The Tempest, Act I",
+   "work": "The Tempest",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_32.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 57,
+   "title": "The Tempest, Act II",
+   "work": "The Tempest",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_32.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 58,
+   "title": "The Tempest, Act III",
+   "work": "The Tempest",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_32.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 59,
+   "title": "The Tempest, Act IV",
+   "work": "The Tempest",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_32.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 60,
+   "title": "The Tempest, Act V",
+   "work": "The Tempest",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_32.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 61,
+   "title": "King John, Act I",
+   "work": "King John",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_16.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 62,
+   "title": "King John, Act II",
+   "work": "King John",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_16.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 63,
+   "title": "King John, Act III",
+   "work": "King John",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_16.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 64,
+   "title": "King John, Act IV",
+   "work": "King John",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_16.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 65,
+   "title": "King John, Act V",
+   "work": "King John",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_16.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 66,
+   "title": "King Richard the Second, Act I",
+   "work": "King Richard the Second",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_28.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 67,
+   "title": "King Richard the Second, Act II",
+   "work": "King Richard the Second",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_28.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 68,
+   "title": "King Richard the Second, Act III",
+   "work": "King Richard the Second",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_28.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 69,
+   "title": "King Richard the Second, Act IV",
+   "work": "King Richard the Second",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_28.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 70,
+   "title": "King Richard the Second, Act V",
+   "work": "King Richard the Second",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_28.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 71,
+   "title": "The First Part of King Henry the Fourth, Act I",
+   "work": "The First Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_9.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 72,
+   "title": "The First Part of King Henry the Fourth, Act II",
+   "work": "The First Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_9.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 73,
+   "title": "The First Part of King Henry the Fourth, Act III",
+   "work": "The First Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_9.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 74,
+   "title": "The First Part of King Henry the Fourth, Act IV",
+   "work": "The First Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_9.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 75,
+   "title": "The First Part of King Henry the Fourth, Act V",
+   "work": "The First Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_9.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 76,
+   "title": "The Second Part of King Henry the Fourth, Act I",
+   "work": "The Second Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_10.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 77,
+   "title": "The Second Part of King Henry the Fourth, Act II",
+   "work": "The Second Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_10.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 78,
+   "title": "The Second Part of King Henry the Fourth, Act III",
+   "work": "The Second Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_10.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 79,
+   "title": "The Second Part of King Henry the Fourth, Act IV",
+   "work": "The Second Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_10.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 80,
+   "title": "The Second Part of King Henry the Fourth, Act V",
+   "work": "The Second Part of King Henry the Fourth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_10.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 81,
+   "title": "King Henry the Fifth, Act I",
+   "work": "King Henry the Fifth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_11.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 82,
+   "title": "King Henry the Fifth, Act II",
+   "work": "King Henry the Fifth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_11.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 83,
+   "title": "King Henry the Fifth, Act III",
+   "work": "King Henry the Fifth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_11.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 84,
+   "title": "King Henry the Fifth, Act IV",
+   "work": "King Henry the Fifth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-8",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_11.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 85,
+   "title": "King Henry the Fifth, Act V",
+   "work": "King Henry the Fifth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_11.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 86,
+   "title": "The First Part of Henry the Sixth, Act I",
+   "work": "The First Part of Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_12.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 87,
+   "title": "The First Part of Henry the Sixth, Act II",
+   "work": "The First Part of Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_12.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 88,
+   "title": "The First Part of Henry the Sixth, Act III",
+   "work": "The First Part of Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_12.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 89,
+   "title": "The First Part of Henry the Sixth, Act IV",
+   "work": "The First Part of Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_12.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 90,
+   "title": "The First Part of Henry the Sixth, Act V",
+   "work": "The First Part of Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_12.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 91,
+   "title": "The Second Part of King Henry the Sixth, Act I",
+   "work": "The Second Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_13.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 92,
+   "title": "The Second Part of King Henry the Sixth, Act II",
+   "work": "The Second Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_13.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 93,
+   "title": "The Second Part of King Henry the Sixth, Act III",
+   "work": "The Second Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_13.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 94,
+   "title": "The Second Part of King Henry the Sixth, Act IV",
+   "work": "The Second Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-10",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_13.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 95,
+   "title": "The Second Part of King Henry the Sixth, Act V",
+   "work": "The Second Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_13.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 96,
+   "title": "The Third Part of King Henry the Sixth, Act I",
+   "work": "The Third Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_14.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 97,
+   "title": "The Third Part of King Henry the Sixth, Act II",
+   "work": "The Third Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_14.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 98,
+   "title": "The Third Part of King Henry the Sixth, Act III",
+   "work": "The Third Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_14.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 99,
+   "title": "The Third Part of King Henry the Sixth, Act IV",
+   "work": "The Third Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-8",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_14.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 100,
+   "title": "The Third Part of King Henry the Sixth, Act V",
+   "work": "The Third Part of King Henry the Sixth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_14.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 101,
+   "title": "King Richard the Third, Act I",
+   "work": "King Richard the Third",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_29.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 102,
+   "title": "King Richard the Third, Act II",
+   "work": "King Richard the Third",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_29.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 103,
+   "title": "King Richard the Third, Act III",
+   "work": "King Richard the Third",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_29.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 104,
+   "title": "King Richard the Third, Act IV",
+   "work": "King Richard the Third",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_29.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 105,
+   "title": "King Richard the Third, Act V",
+   "work": "King Richard the Third",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_29.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 106,
+   "title": "King Henry the Eighth, Act I",
+   "work": "King Henry the Eighth",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_15.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 107,
+   "title": "King Henry the Eighth, Act II",
+   "work": "King Henry the Eighth",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_15.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 108,
+   "title": "King Henry the Eighth, Act III",
+   "work": "King Henry the Eighth",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_15.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 109,
+   "title": "King Henry the Eighth, Act IV",
+   "work": "King Henry the Eighth",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_15.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 110,
+   "title": "King Henry the Eighth, Act V",
+   "work": "King Henry the Eighth",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_15.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 111,
+   "title": "The Taming of the Shrew, Act I",
+   "work": "The Taming of the Shrew",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2 (with the Induction)",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIN_31.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 112,
+   "title": "The Taming of the Shrew, Act II",
+   "work": "The Taming of the Shrew",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_31.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 113,
+   "title": "The Taming of the Shrew, Act III",
+   "work": "The Taming of the Shrew",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_31.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 114,
+   "title": "The Taming of the Shrew, Act IV",
+   "work": "The Taming of the Shrew",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_31.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 115,
+   "title": "The Taming of the Shrew, Act V",
+   "work": "The Taming of the Shrew",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_31.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 116,
+   "title": "Antony and Cleopatra, Act I",
+   "work": "Antony and Cleopatra",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_3.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 117,
+   "title": "Antony and Cleopatra, Act II",
+   "work": "Antony and Cleopatra",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_3.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 118,
+   "title": "Antony and Cleopatra, Act III",
+   "work": "Antony and Cleopatra",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-13",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_3.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 119,
+   "title": "Antony and Cleopatra, Act IV",
+   "work": "Antony and Cleopatra",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-15",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_3.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 120,
+   "title": "Antony and Cleopatra, Act V",
+   "work": "Antony and Cleopatra",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_3.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 121,
+   "title": "The Comedy of Errors, Act I",
+   "work": "The Comedy of Errors",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_5.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 122,
+   "title": "The Comedy of Errors, Act II",
+   "work": "The Comedy of Errors",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_5.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 123,
+   "title": "The Comedy of Errors, Act III",
+   "work": "The Comedy of Errors",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_5.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 124,
+   "title": "The Comedy of Errors, Act IV",
+   "work": "The Comedy of Errors",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_5.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 125,
+   "title": "The Comedy of Errors, Act V",
+   "work": "The Comedy of Errors",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_5.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 126,
+   "title": "Coriolanus, Act I",
+   "work": "Coriolanus",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-10",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_6.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 127,
+   "title": "Coriolanus, Act II",
+   "work": "Coriolanus",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_6.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 128,
+   "title": "Coriolanus, Act III",
+   "work": "Coriolanus",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_6.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 129,
+   "title": "Coriolanus, Act IV",
+   "work": "Coriolanus",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_6.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 130,
+   "title": "Coriolanus, Act V",
+   "work": "Coriolanus",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_6.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 131,
+   "title": "The Winter’s Tale, Act I",
+   "work": "The Winter’s Tale",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_39.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 132,
+   "title": "The Winter’s Tale, Act II",
+   "work": "The Winter’s Tale",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_39.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 133,
+   "title": "The Winter’s Tale, Act III",
+   "work": "The Winter’s Tale",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_39.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 134,
+   "title": "The Winter’s Tale, Act IV",
+   "work": "The Winter’s Tale",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_39.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 135,
+   "title": "The Winter’s Tale, Act V",
+   "work": "The Winter’s Tale",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_39.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 136,
+   "title": "Titus Andronicus, Act I",
+   "work": "Titus Andronicus",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_34.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 137,
+   "title": "Titus Andronicus, Act II",
+   "work": "Titus Andronicus",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_34.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 138,
+   "title": "Titus Andronicus, Act III",
+   "work": "Titus Andronicus",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_34.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 139,
+   "title": "Titus Andronicus, Act IV",
+   "work": "Titus Andronicus",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_34.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 140,
+   "title": "Titus Andronicus, Act V",
+   "work": "Titus Andronicus",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_34.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 141,
+   "title": "The Two Gentlemen of Verona, Act I",
+   "work": "The Two Gentlemen of Verona",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_37.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 142,
+   "title": "The Two Gentlemen of Verona, Act II",
+   "work": "The Two Gentlemen of Verona",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_37.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 143,
+   "title": "The Two Gentlemen of Verona, Act III",
+   "work": "The Two Gentlemen of Verona",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_37.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 144,
+   "title": "The Two Gentlemen of Verona, Act IV",
+   "work": "The Two Gentlemen of Verona",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_37.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 145,
+   "title": "The Two Gentlemen of Verona, Act V",
+   "work": "The Two Gentlemen of Verona",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_37.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 146,
+   "title": "Troilus and Cressida, Act I",
+   "work": "Troilus and Cressida",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_35.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 147,
+   "title": "Troilus and Cressida, Act II",
+   "work": "Troilus and Cressida",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_35.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 148,
+   "title": "Troilus and Cressida, Act III",
+   "work": "Troilus and Cressida",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_35.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 149,
+   "title": "Troilus and Cressida, Act IV",
+   "work": "Troilus and Cressida",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_35.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 150,
+   "title": "Troilus and Cressida, Act V",
+   "work": "Troilus and Cressida",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-10",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_35.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 151,
+   "title": "Love’s Labour’s Lost, Act I",
+   "work": "Love’s Labour’s Lost",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_19.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 152,
+   "title": "Love’s Labour’s Lost, Act II",
+   "work": "Love’s Labour’s Lost",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_19.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 153,
+   "title": "Love’s Labour’s Lost, Act III",
+   "work": "Love’s Labour’s Lost",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_19.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 154,
+   "title": "Love’s Labour’s Lost, Act IV",
+   "work": "Love’s Labour’s Lost",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_19.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 155,
+   "title": "Love’s Labour’s Lost, Act V",
+   "work": "Love’s Labour’s Lost",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_19.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 156,
+   "title": "Timon of Athens, Act I",
+   "work": "Timon of Athens",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_33.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 157,
+   "title": "Timon of Athens, Act II",
+   "work": "Timon of Athens",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_33.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 158,
+   "title": "Timon of Athens, Act III",
+   "work": "Timon of Athens",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_33.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 159,
+   "title": "Timon of Athens, Act IV",
+   "work": "Timon of Athens",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_33.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 160,
+   "title": "Timon of Athens, Act V",
+   "work": "Timon of Athens",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_33.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 161,
+   "title": "Measure for Measure, Act I",
+   "work": "Measure for Measure",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_21.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 162,
+   "title": "Measure for Measure, Act II",
+   "work": "Measure for Measure",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_21.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 163,
+   "title": "Measure for Measure, Act III",
+   "work": "Measure for Measure",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-2",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_21.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 164,
+   "title": "Measure for Measure, Act IV",
+   "work": "Measure for Measure",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_21.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 165,
+   "title": "Measure for Measure, Act V",
+   "work": "Measure for Measure",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scene 1",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_21.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 166,
+   "title": "Cymbeline, Act I",
+   "work": "Cymbeline",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_7.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 167,
+   "title": "Cymbeline, Act II",
+   "work": "Cymbeline",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_7.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 168,
+   "title": "Cymbeline, Act III",
+   "work": "Cymbeline",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-8",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_7.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 169,
+   "title": "Cymbeline, Act IV",
+   "work": "Cymbeline",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_7.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 170,
+   "title": "Cymbeline, Act V",
+   "work": "Cymbeline",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_7.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 171,
+   "title": "The Merry Wives of Windsor, Act I",
+   "work": "The Merry Wives of Windsor",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_23.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 172,
+   "title": "The Merry Wives of Windsor, Act II",
+   "work": "The Merry Wives of Windsor",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_23.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 173,
+   "title": "The Merry Wives of Windsor, Act III",
+   "work": "The Merry Wives of Windsor",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_23.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 174,
+   "title": "The Merry Wives of Windsor, Act IV",
+   "work": "The Merry Wives of Windsor",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_23.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 175,
+   "title": "The Merry Wives of Windsor, Act V",
+   "work": "The Merry Wives of Windsor",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_23.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 176,
+   "title": "Pericles, Act I",
+   "work": "Pericles",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_27.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 177,
+   "title": "Pericles, Act II",
+   "work": "Pericles",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_27.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 178,
+   "title": "Pericles, Act III",
+   "work": "Pericles",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-4",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_27.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 179,
+   "title": "Pericles, Act IV",
+   "work": "Pericles",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_27.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 180,
+   "title": "Pericles, Act V",
+   "work": "Pericles",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_27.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 181,
+   "title": "All’s Well that Ends Well, Act I",
+   "work": "All’s Well that Ends Well",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_2.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 182,
+   "title": "All’s Well that Ends Well, Act II",
+   "work": "All’s Well that Ends Well",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_2.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 183,
+   "title": "All’s Well that Ends Well, Act III",
+   "work": "All’s Well that Ends Well",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-7",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_2.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 184,
+   "title": "All’s Well that Ends Well, Act IV",
+   "work": "All’s Well that Ends Well",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_2.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 185,
+   "title": "All’s Well that Ends Well, Act V",
+   "work": "All’s Well that Ends Well",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_2.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 186,
+   "title": "The Two Noble Kinsmen, Act I",
+   "work": "The Two Noble Kinsmen",
+   "author": "William Shakespeare",
+   "ref": "Act I, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneI_38.0",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 187,
+   "title": "The Two Noble Kinsmen, Act II",
+   "work": "The Two Noble Kinsmen",
+   "author": "William Shakespeare",
+   "ref": "Act II, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneII_38.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 188,
+   "title": "The Two Noble Kinsmen, Act III",
+   "work": "The Two Noble Kinsmen",
+   "author": "William Shakespeare",
+   "ref": "Act III, Scenes 1-6",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIII_38.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 189,
+   "title": "The Two Noble Kinsmen, Act IV",
+   "work": "The Two Noble Kinsmen",
+   "author": "William Shakespeare",
+   "ref": "Act IV, Scenes 1-3",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneIV_38.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  },
+  {
+   "day": 190,
+   "title": "The Two Noble Kinsmen, Act V",
+   "work": "The Two Noble Kinsmen",
+   "author": "William Shakespeare",
+   "ref": "Act V, Scenes 1-5",
+   "full_text_link": "https://www.gutenberg.org/cache/epub/100/pg100-images.html#sceneV_38.1",
+   "verified": true,
+   "source_notes": "Act and scene anchors parsed from Project Gutenberg #100 HTML; act heading confirmed in the plain-text edition (5 act headings found for this play)."
+  }
+ ]
+}
